@@ -1,0 +1,7 @@
+integer
+
+float
+
+string
+
+boolean
